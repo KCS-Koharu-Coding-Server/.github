@@ -12,10 +12,10 @@
 ## 🌟 Featured Projects
 
 ### 1. Sora Bot (`소라 Bot`)
-<img src="sora-beaner.jpg" width="100%" alt="Sora Banner">
+<img src="sora-beaner.png" width="100%" alt="Sora Banner">
 
 <p align="center">
-  <img src="sora-icon.jpg" width="150" alt="Sora Logo" style="border-radius: 50%;">
+  <img src="sora-icon.png" width="150" alt="Sora Logo" style="border-radius: 50%;">
 </p>
 
 * **Description:** An intelligent and interactive Discord bot developed under KCS to enhance server engagement and utility features.
